@@ -49,4 +49,4 @@ Active and eager to connect with forward-thinking teams, open-source communities
 
 ### 📬 Connect with Me
 * **GitHub:** [@taheriiii49](https://github.com/taheriiii49)
-* **Email:** [erfan.taheri@example.com](mailto:erfan.taheri@example.com)
+* **Email:** [Send a secure email](mailto:311566442+taheriiii49@users.noreply.github.com)
