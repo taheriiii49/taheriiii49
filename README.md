@@ -8,6 +8,14 @@
 
 ---
 
+### 🚀 Featured Projects
+* **[Physics Engine Sandbox](https://github.com/taheriiii49/physics-engine-sandbox)**
+  - A high-performance 2D physics engine featuring **Verlet integration** in native C++ with an interactive **Pygame** UI.
+  - Implements real-time mechanical constraint solving, interactive node dragging, dynamic view panning/zooming, and undo/redo history.
+  - Built using a hybrid C++/Python architecture connected via `ctypes`.
+
+---
+
 ### 🌍 Languages & Cognitive Edge
 Coming from a rich multilingual background, I view human languages and programming paradigms through the exact same lens: **Pattern Matching**. The cognitive agility required to master multiple linguistic systems translates directly into a high-speed aptitude for picking up complex codebases.
 * **Persian:** Native
@@ -41,4 +49,4 @@ Active and eager to connect with forward-thinking teams, open-source communities
 
 ### 📬 Connect with Me
 * **GitHub:** [@taheriiii49](https://github.com/taheriiii49)
-* **Email:** [Send a secure email](mailto:311566442+taheriiii49@users.noreply.github.com)
+* **Email:** [erfan.taheri@example.com](mailto:erfan.taheri@example.com)
