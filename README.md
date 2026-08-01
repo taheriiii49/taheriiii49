@@ -9,11 +9,12 @@
 ---
 
 ### 🚀 Featured Projects
-* **[Physics Engine Sandbox](https://github.com/taheriiii49/physics-engine-sandbox)**
-  - A high-performance 2D physics engine featuring **Verlet integration** in native C++ with an interactive **Pygame** UI.
-  - Implements real-time mechanical constraint solving, interactive node dragging, dynamic view panning/zooming, and undo/redo history.
-  - Built using a hybrid C++/Python architecture connected via `ctypes`.
 
+* 🌉 **[Physics Engine Sandbox](https://github.com/taheriiii49/physics-engine-sandbox)**
+  > *A high-performance 2D mechanical simulation engine engineered from scratch.*
+  - ⚡ **Hybrid Architecture:** Combines native C++ for heavy physics math with Python (Pygame) for an interactive UI, bridged seamlessly via `ctypes`.
+  - ⚙️ **Custom Physics Core:** Implements **Verlet Integration** and distance constraint relaxation to simulate dynamic structural behavior smoothly.
+  - 🎮 **Full Interactive Control:** Real-time node manipulation, smooth view panning/zooming, and a custom state history engine for full **Undo/Redo** functionality.
 ---
 
 ### 🌍 Languages & Cognitive Edge
